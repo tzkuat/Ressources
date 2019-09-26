@@ -13,7 +13,6 @@
 
 * Pipl : https://pipl.com/
 * Check Username : https://checkusernames.com/ 
-* OSINT Framework : https://osintframework.com/ 
 * Shodan : https://shodan.io
 * Onyphe : https://onyphe.io
 * Been Verified : https://www.beenverified.com/ 
@@ -25,4 +24,5 @@
 
 ## List of tools/ressources
 
-* https://github.com/jivoi/awesome-osint
+* OSINT Framework : https://osintframework.com/ 
+* Awesome OSINT : https://github.com/jivoi/awesome-osint
