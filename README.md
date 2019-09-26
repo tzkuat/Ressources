@@ -1,1 +1,1 @@
-# A list of ressources about multiple domains, Security, OSINT, DevOps, etc. 
+# A list of several resources on different areas such as security, OSINT, DevOps, etc. 
