@@ -26,13 +26,15 @@
 * Hashes : https://hashes.org/
 * Lookyloo : https://github.com/CIRCL/lookyloo 
 * Wigle : https://wigle.net/ 
-
+* SnapDex : https://www.snapdex.com/ 
+* Attack Surface Mapper : https://github.com/superhedgy/AttackSurfaceMapper 
 
 ## Ressources
 
 * Goole Search Operators, Complete List : https://ahrefs.com/blog/google-advanced-search-operators/ 
 * Extension OSINT Firefox : https://openfacto.fr/2019/08/11/firefox-ii-interlude-extensions/ 
 * Shodan Queries : https://github.com/jakejarvis/awesome-shodan-queries
+* Bellingcat's Online Investigation Toolkit : https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic 
 
 ## List of tools/ressources
 
