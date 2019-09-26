@@ -1,6 +1,6 @@
 # OSINT Ressources
 
-## Workflow
+## Workflows
 
 * Email: https://inteltechniques.com/data/Email.png
 * Domain: https://inteltechniques.com/data/Domain.png
