@@ -3,6 +3,7 @@
 ## Chat (Discord, Slack, etc.)
 
 * Discord OSINT-FR : https://discordapp.com/invite/E2XDKNc 
+* Subreddit OSINT : https://www.reddit.com/r/OSINT/
 
 ## Workflows/Illustrations
 
