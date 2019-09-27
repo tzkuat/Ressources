@@ -16,6 +16,7 @@
 * NoScript : https://noscript.net/
 * Kalitorify : https://net-security.fr/security/proxy-tor-sur-kali-linux/ 
 * Pi Hole : https://pi-hole.net/
+* GPG : https://gnupg.orgg
 
 And almost all Linux distributions are to be preferred to Windows (Debian, Ubuntu, Mint, Kali, etc.).
 
@@ -33,4 +34,6 @@ And almost all Linux distributions are to be preferred to Windows (Debian, Ubunt
 
 ## Resources 
 * De-google-ify Internet : https://degooglisons-internet.org/en/
+* EFF : https://www.eff.org/
+* SSD EDD : https://ssd.eff.org/
 
