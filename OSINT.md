@@ -1,5 +1,9 @@
 # OSINT Ressources
 
+## Chat (Discord, Slack, etc.)
+
+* Discord OSINT-FR : https://discordapp.com/invite/E2XDKNc 
+
 ## Workflows/Illustrations
 
 * Email: https://inteltechniques.com/data/Email.png
@@ -28,6 +32,10 @@
 * Wigle : https://wigle.net/ 
 * SnapDex : https://www.snapdex.com/ 
 * Attack Surface Mapper : https://github.com/superhedgy/AttackSurfaceMapper 
+* Lets Enhance : https://letsenhance.io/ 
+* Find Subdomain : https://findsubdomains.com/ 
+* Cross Linked : https://www.kitploit.com/2019/05/crosslinked-linkedin-enumeration-tool.html 
+* Satellite Data List : https://gisgeography.com/free-satellite-imagery-data-list/
 
 ## Ressources
 
