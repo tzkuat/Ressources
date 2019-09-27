@@ -37,6 +37,26 @@
 * Find Subdomain : https://findsubdomains.com/ 
 * Cross Linked : https://www.kitploit.com/2019/05/crosslinked-linkedin-enumeration-tool.html 
 * Satellite Data List : https://gisgeography.com/free-satellite-imagery-data-list/
+* Gephi : https://gephi.org/ 
+* Maltego : https://www.paterva.com/buy/maltego-clients/maltego-ce.php 
+* People Finder : https://www.peoplefinder.com/ 
+* Tinfoleak : https://tinfoleak.com/
+* H8mail : https://github.com/khast3x/h8mail 
+* Tweets Analyzer : https://github.com/x0rz/tweets_analyzer 
+* Raven : https://github.com/0x09AL/raven 
+* Public www : https://publicwww.com/ 
+* Harpoon : https://github.com/Te-k/harpoon 
+* PhoneInfoga : https://github.com/sundowndev/PhoneInfoga 
+* Way Back Machine : https://archive.org/web/
+* OSINT Facebook Dump : https://github.com/TheCyberViking/Facebook_OSINT_Dump 
+* SunCalc : https://suncalc.org/
+* TinEye Reverse Image Search : https://addons.mozilla.org/fr/firefox/addon/tineye-reverse-image-search/
+* Social Blade : https://socialblade.com/ 
+* Recon : https://secapps.com/market/recon 
+
+## OS 
+
+* Tsuguri Linux : https://tsurugi-linux.org/ 
 
 ## Ressources
 
@@ -44,6 +64,7 @@
 * Extension OSINT Firefox : https://openfacto.fr/2019/08/11/firefox-ii-interlude-extensions/ 
 * Shodan Queries : https://github.com/jakejarvis/awesome-shodan-queries
 * Bellingcat's Online Investigation Toolkit : https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic 
+* Telegram API OSINT : https://fabledowlblog.wordpress.com/2017/07/10/telegram-api-for-osint-part-1-users/
 
 ## List of tools/ressources
 
