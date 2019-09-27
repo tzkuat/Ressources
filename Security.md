@@ -43,7 +43,7 @@
 ## Ressources 
 
 * The Hacker News : https://thehackernews.com/ 
-* Net-Security : https://thehackernews.com/ 
+* Net-Security : https://net-security.fr
 * Web Security Academy : https://portswigger.net/web-security 
 * Kali Linux Docs : https://docs.kali.org/
 * OWASP : https://www.owasp.org/index.php/Main_Page 
