@@ -69,6 +69,10 @@
 * Air Crack NG : https://www.aircrack-ng.org/
 * HashCat : https://hashcat.net/hashcat/ 
 * Scapy : https://scapy.net/ 
+* PWNagotchi : https://github.com/evilsocket/pwnagotchi
+* Responder : https://github.com/SpiderLabs/Responder 
+* Bloodhound : https://github.com/BloodHoundAD/BloodHound 
+* Bettercap : https://github.com/bettercap/bettercap
 
 ## OS 
 
