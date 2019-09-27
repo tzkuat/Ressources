@@ -73,6 +73,7 @@
 * Responder : https://github.com/SpiderLabs/Responder 
 * Bloodhound : https://github.com/BloodHoundAD/BloodHound 
 * Bettercap : https://github.com/bettercap/bettercap
+* Saucs Vuln Management : https://saucs.com
 
 ## OS 
 
