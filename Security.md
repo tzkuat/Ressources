@@ -1,5 +1,10 @@
 # Security Ressources
 
+## Chat (Discord, Slack, etc.)
+
+* Discord RTFM : https://discord.gg/yJYc7zp
+* Discord ODays.Rocks : https://discord.gg/4N7nWWd
+
 ## OSINT Ressources
 
 * [OSINT](https://github.com/tzkuat/Ressources/blob/master/OSINT.md)
