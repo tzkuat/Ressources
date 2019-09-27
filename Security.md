@@ -1,13 +1,18 @@
 # Security Ressources
 
+## OSINT Ressources
+
+* [OSINT](https://github.com/tzkuat/Ressources/blob/master/OSINT.md)
+
 ## Chat (Discord, Slack, etc.)
 
 * Discord RTFM : https://discord.gg/yJYc7zp
 * Discord ODays.Rocks : https://discord.gg/4N7nWWd
-
-## OSINT Ressources
-
-* [OSINT](https://github.com/tzkuat/Ressources/blob/master/OSINT.md)
+* Subreddit How to Hack : https://www.reddit.com/r/HowToHack/ 
+* Subreddit AskNetSec : https://www.reddit.com/r/AskNetsec/ 
+* Subreddit BlackHat : https://www.reddit.com/r/blackhat/ 
+* Subreddit NetSec : https://www.reddit.com/r/netsec/
+* Subreddit Security : https://www.reddit.com/r/security
 
 ## CTF/Challenge/Bug Bounty 
 
