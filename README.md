@@ -7,3 +7,4 @@ This list is composed of tools that I use or have used and is not intended to be
 * [OSINT](https://github.com/tzkuat/Ressources/blob/master/OSINT.md)
 * [Security](https://github.com/tzkuat/Ressources/blob/master/Security.md)
 * [Privacy](https://github.com/tzkuat/Ressources/blob/master/Privacy.md)
+* [Awesome List](https://github.com/tzkuat/Ressources/blob/master/Awesome-list.md)
