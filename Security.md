@@ -84,13 +84,13 @@
 ## OSCP Ressources 
 
 * OSCP Survival Guide : https://github.com/Sturmrufer/OSCP-Survival-Guide_
-* Pentest Compilation :https://github.com/adon90/pentest_compilation
+* Pentest Compilation : https://github.com/adon90/pentest_compilation
 * OSCP Cheat Sheet : https://github.com/mikaelkall/OSCP-cheat-sheet
 * OSCP Tools : https://github.com/cokebottle/oscp-tools
 * OSCP Notes : https://github.com/kyawthiha7/oscp_notes
 * OSCP5 : https://github.com/sojamo/oscp5
 * OSCP Prep : https://github.com/burntmybagel/OSCP-Prep
-* Cheatsheets : ttps://github.com/slyth11907/Cheatsheets
+* Cheatsheets : https://github.com/slyth11907/Cheatsheets
 * Cheatsheet-God : https://github.com/OlivierLaflamme/Cheatsheet-God
 * OSCP Exam Report Template : https://github.com/noraj/OSCP-Exam-Report-Template-Markdown 
 
