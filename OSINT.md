@@ -53,6 +53,7 @@
 * TinEye Reverse Image Search : https://addons.mozilla.org/fr/firefox/addon/tineye-reverse-image-search/
 * Social Blade : https://socialblade.com/ 
 * Recon : https://secapps.com/market/recon 
+* Have I Been Pwned ? : https://haveibeenpwned.com/
 
 ## OS 
 
@@ -65,6 +66,10 @@
 * Shodan Queries : https://github.com/jakejarvis/awesome-shodan-queries
 * Bellingcat's Online Investigation Toolkit : https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic 
 * Telegram API OSINT : https://fabledowlblog.wordpress.com/2017/07/10/telegram-api-for-osint-part-1-users/
+* I Intelligence Handbook : https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf 
+* Open Source Intelligence Gathering 201 : https://blog.appsecco.com/open-source-intelligence-gathering-201-covering-12-additional-techniques-b76417b5a544 
+* iaca-darkweb-tools : https://iaca-darkweb-tools.com/ 
+
 
 ## List of tools/ressources
 
