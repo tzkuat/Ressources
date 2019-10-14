@@ -10,3 +10,4 @@
 * DevOps : https://github.com/AcalephStorage/awesome-devops
 * K8S : https://github.com/ramitsurana/awesome-kubernetes
 * Docker : https://github.com/veggiemonk/awesome-docker
+* Flask : https://github.com/humiaozuzu/awesome-flask
