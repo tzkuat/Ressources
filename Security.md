@@ -99,6 +99,7 @@
 * Awesome Hacking : https://github.com/carpedm20/awesome-hacking
 * Awesome Security : https://github.com/sbilly/awesome-security 
 * Windows Hacking/Red teaming Ressources : https://docs.google.com/document/d/1HYPX0MMn2Qc0TNYRRIaaYU2GIbuTMXHm-JBhRR2vNMU/mobilebasic
+* Pentesting Bible : https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 ## Others 
 
