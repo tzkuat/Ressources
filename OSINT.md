@@ -54,6 +54,7 @@
 * Social Blade : https://socialblade.com/ 
 * Recon : https://secapps.com/market/recon 
 * Have I Been Pwned ? : https://haveibeenpwned.com/
+* Google Certificate Transparency : https://transparencyreport.google.com/https/certificates
 
 ## OS 
 
