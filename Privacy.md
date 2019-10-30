@@ -26,6 +26,7 @@ And almost all Linux distributions are to be preferred to Windows (Debian, Ubunt
 * Wire : https://app.wire.com/
 * ProtonMail : https://protonmail.com/
 * Mattermost : https://mattermost.com/ 
+* Tutanota : https://tutanota.com
 
 ## Navigator 
 * Firefox : https://www.mozilla.org/fr/firefox/
