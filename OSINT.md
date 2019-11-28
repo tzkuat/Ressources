@@ -58,6 +58,8 @@
 * Google Certificate Transparency : https://transparencyreport.google.com/https/certificates
 * Entrust Certificate Transparency : https://www.entrust.com/ct-search/
 * Meta Presses : https://www.meta-press.es/
+* RIPE : https://www.ripe.net/
+
 ## OS 
 
 * Tsuguri Linux : https://tsurugi-linux.org/ 
