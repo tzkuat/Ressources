@@ -1,3 +1,9 @@
++++
+title = "OSINT"
+date = "2019-12-13"
+menu = "main"
++++
+
 # OSINT Resources
 
 ## Chat (Discord, Slack, etc.)
