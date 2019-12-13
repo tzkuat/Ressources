@@ -1,3 +1,9 @@
++++
+title = "Privacy"
+date = "2019-12-13"
+menu = "main"
++++
+
 # Privacy Resources
 
 ## Search Engine 
