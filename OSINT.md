@@ -1,4 +1,4 @@
-# OSINT Ressources
+# OSINT Resources
 
 ## Chat (Discord, Slack, etc.)
 
