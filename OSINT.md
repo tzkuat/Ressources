@@ -6,10 +6,13 @@ menu = "main"
 
 # OSINT Resources
 
-## Chat (Discord, Slack, etc.)
+## Chat (Discord, Slack, etc.) or community (association, group, etc.)
 
 * Discord OSINT-FR : https://discordapp.com/invite/E2XDKNc 
 * Subreddit OSINT : https://www.reddit.com/r/OSINT/
+* Bellingcat : https://www.bellingcat.com/ 
+* OSINT Curious : https://osintcurio.us/ 
+* GIJN : https://gijn.org/ 
 
 ## Workflows/Illustrations
 
@@ -88,3 +91,4 @@ menu = "main"
 * OSINT Framework : https://osintframework.com/ 
 * Awesome OSINT : https://github.com/jivoi/awesome-osint
 * OSINT Sources : https://github.com/imuledx/OSINT_sources 
+* Technisette OSINT resources : https://start.me/p/m6XQ08/osint
