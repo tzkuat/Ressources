@@ -6,10 +6,6 @@ menu = "main"
 
 # Security Ressources
 
-## OSINT Ressources
-
-* [OSINT](https://github.com/tzkuat/Ressources/blob/master/OSINT.md)
-
 ## Chat (Discord, Slack, etc.)
 
 * Discord RTFM : https://discord.gg/yJYc7zp
