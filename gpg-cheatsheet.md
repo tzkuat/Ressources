@@ -110,7 +110,18 @@ gpg --edit-key ID_KEY
 
 #### Change passphrase of private key 
 ```
-gpg2 --edit-key ID_KEY
+gpg --edit-key ID_KEY
 > passwd
 > save 
+```
+
+#### Sign a public key 
+```
+gpg --sign-key ID_KEY_TO_SIGN
+```
+
+#### Verify key signature
+```
+gpg2 --edit-key ID_KEY_
+> check 
 ```
