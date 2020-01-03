@@ -10,6 +10,24 @@ More information :
 
 ## Config file
 
+#### Create gpg.conf 
+```
+touch ~/.gnupg/gpg.conf
+```
+
+#### Add content 
+```
+default-key ID_KEY
+
+personal-cipher-preferences AES256 AES 3DES
+
+personal-digest-preferences SHA512 SHA384 SHA256
+
+personal-compress-preferences ZLIB BZIP2 ZIP Uncompressed
+
+default-preference-list SHA512 SHA384 SHA256 AES256 AES 3DES ZLIB BZIP2 ZIP Uncompressed
+```
+
 ## Commands
 
 #### Generate GPG key pair with full option
@@ -132,6 +150,6 @@ gpg --sign-key ID_KEY_TO_SIGN
 
 #### Verify key signature
 ```
-gpg2 --edit-key ID_KEY_
+gpg --edit-key ID_KEY_
 > check 
 ```
