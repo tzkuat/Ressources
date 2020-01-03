@@ -1,5 +1,15 @@
 # GPG Cheat Sheet
 
+More information :
+* [Net-Security GPG Cheat-Sheet](https://net-security.fr/security/gnupg-introduction-cheat-sheet/)
+* [The GNU Privacy Guard](https://gnupg.org/)
+
+## Summary
+* [GPG Linux config file](Config file)
+* [GPG Linux commands list](Commands)
+
+## Config file
+
 ## Commands
 
 #### Generate GPG key pair with full option
