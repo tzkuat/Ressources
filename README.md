@@ -12,4 +12,4 @@ This list is composed of tools that I use or have used and is not intended to be
 ## Cheat Sheet : 
 
 * [GnuPG](https://github.com/tzkuat/Ressources/blob/master/gpg-cheatsheet.md)
-* [OpenSSL](https://github.com/tzkuat/Ressources/blob/master/openssl-sheatsheet.md)
+* [OpenSSL](https://github.com/tzkuat/Ressources/blob/master/openssl-cheatsheet.md)
