@@ -5,8 +5,8 @@ More information :
 * [The GNU Privacy Guard](https://gnupg.org/)
 
 ## Summary
-* [GPG Linux config file](Config file)
-* [GPG Linux commands list](Commands)
+* [GPG Linux config file](#Config file)
+* [GPG Linux commands list](#Commands)
 
 ## Config file
 
