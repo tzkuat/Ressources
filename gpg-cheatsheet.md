@@ -1,6 +1,6 @@
 # GPG Cheat Sheet
 
-## Command 
+## Commands
 
 #### Generate GPG key pair with full option
 ```
