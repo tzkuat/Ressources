@@ -27,3 +27,22 @@ gpg -k
 gpg -K 
 ```
 
+#### Find fingerprint  
+```
+gpg --fingerprint ID_KEY
+```
+
+#### Export public key in file 
+```
+gpg --export --armor ID_KEY > out.key
+```
+
+#### Import public key from a file 
+```
+gpg --import file.key
+```
+
+#### List key pair 
+```
+gpg --list-keys
+```
