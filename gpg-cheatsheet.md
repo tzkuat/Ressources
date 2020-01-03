@@ -99,7 +99,9 @@ gpg --delete-key ID_KEY
 gpg --edit-key ID_KEY
 ```
 * Verify signature of a key
-```> check```
+```
+> check
+```
 * List preferences
 ```
 > pref
