@@ -52,6 +52,8 @@ menu = "main"
 * ECC for dummies 2 : https://www.smalsresearch.be/elliptic-curve-cryptography-tutoriel2/ 
 * Elliptic Curve Cryptography OpenSSL Wiki : https://wiki.openssl.org/index.php/Elliptic_Curve_Cryptography 
 * Introduction to Cryptography by Christof Paar : https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg 
+* RSA Cryptography 1 : https://repo.rm-it.fr/documentation/cryptography/La%20cryptographie%20asymetrique%20-RSA.pdf 
+* RSA Cryptography 2 : https://repo.rm-it.fr/documentation/cryptography/La%20cryptographie%20asym%c3%a9trique%20avec%20RSA.pdf 
 
 ## Recommendation
 
@@ -61,4 +63,12 @@ menu = "main"
 ## Other 
 
 * Links Crypto : https://links.rm-it.fr/?searchterm=&searchtags=crypto 
+
+## Quantum 
+
+* Comprendre informatique quantique : https://repo.rm-it.fr/book/quantum/Comprendre%20Informatique%20Quantique%20Olivier%20Ezratty(2).pdf
+* Post-Quantum Authentication in TLS 1.3:A Performance Study : https://eprint.iacr.org/2020/071.pdf 
+* Tout comprendre en partant de zéro : https://www.institut-pandore.com/physique-quantique/informatique-ordinateur-quantique/ 
+* Le grand défi du post-quantique : https://connect.ed-diamond.com/MISC/MISCHS-013/Le-grand-defi-du-post-quantique 
+
 
