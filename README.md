@@ -1,3 +1,5 @@
+# WARNING! This repo is no longer maintained. Go here for an updated version: https://gitlab.com/tzkuat/Ressources
+
 # A list of several resources on different areas such as security, OSINT, DevOps, etc. 
 
 This list is composed of tools that I use or have used and is not intended to become an "Awesome-xxx" type list.
