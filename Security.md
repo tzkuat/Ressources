@@ -57,6 +57,8 @@ menu = "main"
 
 ## Tools 
 
+* Spyse : https://spyse.com/
+* Intelx : https://intelx.io/
 * Sublister : https://github.com/aboul3la/Sublist3r 
 * SQLMap : http://sqlmap.org/
 * BurpSuite : https://portswigger.net/burp 
